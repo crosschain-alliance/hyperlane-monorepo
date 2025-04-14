@@ -1,5 +1,13 @@
 # @hyperlane-xyz/cli
 
+## 12.1.0
+
+### Patch Changes
+
+- Updated dependencies [acbf5936a]
+  - @hyperlane-xyz/sdk@12.1.0
+  - @hyperlane-xyz/utils@12.1.0
+
 ## 12.0.0
 
 ### Minor Changes
